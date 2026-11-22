@@ -9,7 +9,7 @@
 | 项目 | 主要器件 | 项目分支 | 网站详情 |
 | --- | --- | --- | --- |
 | 51 单片机万年历 | AT89C51 / DS1302 / LCD1602 | [51-mcu-perpetual-calendar](https://github.com/wangxin-ux/proteus/tree/51-mcu-perpetual-calendar) | [查看题目与内容](https://proteus.xinxinyuntu.top/resource/1) |
-| STM32 单片机密码锁 | STM32F103C6 / LCD1602 / 4×4 矩阵键盘 | [stm32-password-lock](https://github.com/wangxin-ux/proteus/tree/stm32-password-lock) | 待发布 |
+| STM32 单片机密码锁 | STM32F103C6 / LCD1602 / 4×4 矩阵键盘 | [stm32-password-lock](https://github.com/wangxin-ux/proteus/tree/stm32-password-lock) | [查看题目与内容](https://proteus.xinxinyuntu.top/resource/2) |
 
 ## 仓库管理方式
 
